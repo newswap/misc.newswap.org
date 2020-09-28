@@ -4,8 +4,50 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-28T13:51:06.416+00:00",
+    "timestamp": "2020-09-28T13:52:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0xeabD889705BC3164aF477a3F6a4b89AC7561e1E7",
+            "name": "QiHaiBiao",
+            "symbol": "QHB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x4a52B6b84D96AE867aA4b58978F321a582f3Dd94",
+            "name": "JZXY",
+            "symbol": "JZXY",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x3aDB7306084017B54FbDe32D675529524D354e46",
+            "name": "Newton Testnet Miner Kudo",
+            "symbol": "NTMK",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x223E2E48f2f09c314f4caD3101f63213cB775A93",
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x0c03f0d604eEFc5a964708D0F07574A7E3e6b666",
+            "name": "QSN",
+            "symbol": "QSN",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0xB2D4fFe5E000dE4B643D4781b3bd867b0270CF83",
+            "name": "New Best Capital",
+            "symbol": "NBC",
+            "decimals": 18
+        },
         {
             "chainId": 1012,
             "address": "0x76791bFA7098f8aac59CE9612Ce083584Fd332aF",
@@ -92,7 +134,7 @@
         }
     ],
     "version": {
-        "major": 6,
+        "major": 7,
         "minor": 0,
         "patch": 2
     }
