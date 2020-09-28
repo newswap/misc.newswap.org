@@ -4,8 +4,15 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-28T13:52:06.416+00:00",
+    "timestamp": "2020-09-28T13:56:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x27bf64753db1ab9fb88c80f6911f1e9410f0dd1a",
+            "name": "NewBTC",
+            "symbol": "NBTC",
+            "decimals": 8
+        },
         {
             "chainId": 1012,
             "address": "0xeabD889705BC3164aF477a3F6a4b89AC7561e1E7",
@@ -61,6 +68,13 @@
             "name": "NewUSDT",
             "symbol": "NUSDT",
             "decimals": 6
+        },
+        {
+            "chainId": 1007,
+            "address": "0x27bf64753db1ab9fb88c80f6911f1e9410f0dd1a",
+            "name": "NewBTC",
+            "symbol": "NBTC",
+            "decimals": 8
         },
         {
             "chainId": 1007,
@@ -134,7 +148,7 @@
         }
     ],
     "version": {
-        "major": 7,
+        "major": 8,
         "minor": 0,
         "patch": 2
     }
