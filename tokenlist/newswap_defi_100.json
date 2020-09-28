@@ -8,7 +8,7 @@
     "tokens": [
         {
             "chainId": 1012,
-            "address": "0x27bf64753db1ab9fb88c80f6911f1e9410f0dd1a",
+            "address": "0x27bf64753db1aB9fB88C80F6911F1e9410F0DD1a",
             "name": "NewBTC",
             "symbol": "NBTC",
             "decimals": 8
@@ -71,7 +71,7 @@
         },
         {
             "chainId": 1007,
-            "address": "0x27bf64753db1ab9fb88c80f6911f1e9410f0dd1a",
+            "address": "0x27bf64753db1aB9fB88C80F6911F1e9410F0DD1a",
             "name": "NewBTC",
             "symbol": "NBTC",
             "decimals": 8
