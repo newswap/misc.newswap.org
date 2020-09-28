@@ -4,8 +4,22 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-28T13:56:06.416+00:00",
+    "timestamp": "2020-09-28T13:59:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0xf0E137d5b718D01a42c429f7F2bDb2383F2Fed5f",
+            "name": "Lightning biscuit",
+            "symbol": "LB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x4ddeAA082891b95029eEAf5463a2017E5cbcB9dF",
+            "name": "CICI",
+            "symbol": "CICI",
+            "decimals": 18
+        },
         {
             "chainId": 1012,
             "address": "0x27bf64753db1aB9fB88C80F6911F1e9410F0DD1a",
@@ -148,7 +162,7 @@
         }
     ],
     "version": {
-        "major": 8,
+        "major": 9,
         "minor": 0,
         "patch": 2
     }
