@@ -1,10 +1,10 @@
 {
     "name": "NewSwap DeFi 100",
-    "logoURI": "https://www.newtonproject.org/static/images/logo_v3/logo.svg?v=450",
+    "logoURI": "https://misc.newswap.org/tokenlist/newswap_defi_100.png",
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-27T19:58:06.416+00:00",
+    "timestamp": "2020-09-28T13:51:06.416+00:00",
     "tokens": [
         {
             "chainId": 1012,
@@ -94,7 +94,7 @@
     "version": {
         "major": 6,
         "minor": 0,
-        "patch": 1
+        "patch": 2
     }
 }
 
