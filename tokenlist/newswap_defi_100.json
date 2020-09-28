@@ -1,0 +1,100 @@
+{
+    "name": "NewSwap DeFi 100",
+    "logoURI": "https://www.newtonproject.org/static/images/logo_v3/logo.svg?v=450",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2020-09-27T19:58:06.416+00:00",
+    "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x76791bFA7098f8aac59CE9612Ce083584Fd332aF",
+            "name": "Dream of Light",
+            "symbol": "DOL",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x4BFB4297f9C28a373aE6ae58a8f8EfeFF334cae8",
+            "name": "NewUSDT",
+            "symbol": "NUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 1007,
+            "address": "0x20F12218281F9CA566B5c41F17c6c19050125cD3",
+            "name": "NewUSDT",
+            "symbol": "NUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 1007,
+            "address": "0x7Da6EfcF090f1020A5086BF391E067846045cf56",
+            "name": "NewMall Cash",
+            "symbol": "NMC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x243a5C81C1F9970aa3e6f51d73fC13eE853FC338",
+            "name": "TestNet Launch",
+            "symbol": "TL",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x14d4dA0e79dE82604dcaD73EA0B2E2Db2FE5fE29",
+            "name": "CN",
+            "symbol": "CN",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
+            "name": "Miaocai",
+            "symbol": "MCT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0xEd4e695e436a4fCE38BBA9FB66D980aFD66b0e3e",
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x60000ECa1848a42957210E7E469b220a7Dbe07E2",
+            "name": "JZXY",
+            "symbol": "JZXY",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0xf3625f3385a77d8d7e19eECE6942cb2CED80c582",
+            "name": "QSN",
+            "symbol": "QSN",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x094091C5e44d2F2C979D91B490dA460697AB3454",
+            "name": "Cell",
+            "symbol": "CELL",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0xf99e673dbE4b8429A026fc957f4db719091D4a99",
+            "name": "NMTK",
+            "symbol": "NMTK",
+            "decimals": 0
+        }
+    ],
+    "version": {
+        "major": 6,
+        "minor": 0,
+        "patch": 1
+    }
+}
+
