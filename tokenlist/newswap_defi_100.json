@@ -4,8 +4,36 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-28T13:59:06.416+00:00",
+    "timestamp": "2020-09-29T13:59:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
+            "name": "Miaocai",
+            "symbol": "MCT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x0A6bB1830A37fC596A7838B6061A77C438987719",
+            "name": "MC",
+            "symbol": "MC",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x93C615773C642e139cEbF5Df3a13BAd7470D634e",
+            "name": "QatarWorldCup2022",
+            "symbol": "QWCII",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x90891e75dbA1d540c28d26DF8695dB9e086BEE17",
+            "name": "ALG",
+            "symbol": "ALG",
+            "decimals": 18
+        },
         {
             "chainId": 1012,
             "address": "0xf0E137d5b718D01a42c429f7F2bDb2383F2Fed5f",
@@ -162,9 +190,9 @@
         }
     ],
     "version": {
-        "major": 9,
+        "major": 10,
         "minor": 0,
-        "patch": 2
+        "patch": 0
     }
 }
 
