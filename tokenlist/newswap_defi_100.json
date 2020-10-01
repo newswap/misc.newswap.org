@@ -4,8 +4,15 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-29T13:59:06.416+00:00",
+    "timestamp": "2020-09-30T13:59:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x888C5723822dae91c00b80e2812B5d59a2601B01",
+            "name": "Moon Cake Coin",
+            "symbol": "MCC",
+            "decimals": 18
+        },
         {
             "chainId": 1012,
             "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
@@ -190,7 +197,7 @@
         }
     ],
     "version": {
-        "major": 10,
+        "major": 11,
         "minor": 0,
         "patch": 0
     }
