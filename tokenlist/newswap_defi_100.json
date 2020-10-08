@@ -4,8 +4,15 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-09-30T15:59:06.416+00:00",
+    "timestamp": "2020-10-07T15:59:06.416+00:00",
     "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x9cc2AFD608eC856C524320BC37d79C53181cdbb7",
+            "name": "JL",
+            "symbol": "JL",
+            "decimals": 18
+        },
         {
             "chainId": 1012,
             "address": "0x2558c362799314b050e915548b530976B7a8fc14",
@@ -204,7 +211,7 @@
         }
     ],
     "version": {
-        "major": 12,
+        "major": 13,
         "minor": 0,
         "patch": 0
     }
