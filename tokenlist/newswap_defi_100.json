@@ -4,7 +4,7 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-10-20T15:59:06.416+00:00",
+    "timestamp": "2020-10-21T15:59:06.416+00:00",
     "tokens": [
         {
             "chainId": 1012,
@@ -39,13 +39,6 @@
             "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
             "name": "Miaocai",
             "symbol": "MCT",
-            "decimals": 18
-        },
-        {
-            "chainId": 1012,
-            "address": "0x0A6bB1830A37fC596A7838B6061A77C438987719",
-            "name": "MC",
-            "symbol": "MC",
             "decimals": 18
         },
         {
@@ -218,7 +211,7 @@
         }
     ],
     "version": {
-        "major": 14,
+        "major": 15,
         "minor": 0,
         "patch": 0
     }
