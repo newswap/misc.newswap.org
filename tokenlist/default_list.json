@@ -1,0 +1,72 @@
+{
+    "name": "Default List",
+    "logoURI": "https://misc.newswap.org/tokenlist/default_list.png",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2020-10-22T15:59:06.416+00:00",
+    "tokens": [
+        {
+            "chainId": 1012,
+            "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
+            "name": "Miaocai",
+            "symbol": "MCT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x27bf64753db1aB9fB88C80F6911F1e9410F0DD1a",
+            "name": "NewBTC",
+            "symbol": "NBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 1012,
+            "address": "0x223E2E48f2f09c314f4caD3101f63213cB775A93",
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x4BFB4297f9C28a373aE6ae58a8f8EfeFF334cae8",
+            "name": "NewUSDT",
+            "symbol": "NUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 1007,
+            "address": "0x27bf64753db1aB9fB88C80F6911F1e9410F0DD1a",
+            "name": "NewBTC",
+            "symbol": "NBTC",
+            "decimals": 8
+        },
+        {
+            "chainId": 1007,
+            "address": "0x20F12218281F9CA566B5c41F17c6c19050125cD3",
+            "name": "NewUSDT",
+            "symbol": "NUSDT",
+            "decimals": 6
+        },
+        {
+            "chainId": 1007,
+            "address": "0x483246B0Ae0B14DB4C4597C7CC4af2e2ea440a55",
+            "name": "Miaocai",
+            "symbol": "MCT",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0xEd4e695e436a4fCE38BBA9FB66D980aFD66b0e3e",
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18
+        }
+    ],
+    "version": {
+        "major": 16,
+        "minor": 0,
+        "patch": 0
+    }
+}
+
