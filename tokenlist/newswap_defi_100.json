@@ -208,6 +208,13 @@
             "name": "NMTK",
             "symbol": "NMTK",
             "decimals": 0
+        },
+        {
+            "chainId": 1007,
+            "address": "0x910A4a36e8E0cd540baA6a0Fb7B7f3348Bf383cD",
+            "name": "NewETH",
+            "symbol": "NETH",
+            "decimals": 18
         }
     ],
     "version": {
