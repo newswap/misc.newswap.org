@@ -8,6 +8,13 @@
     "tokens": [
         {
             "chainId": 1012,
+            "address": "0x40D690551F5F21EccB8cEdc09e86C2dd2E40Dd52",
+            "name": "MZD",
+            "symbol": "MZD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1012,
             "address": "0x9143491de28168B9Aa5F72dE48026a8b1e9AA91f",
             "name": "NBC",
             "symbol": "NBC",
