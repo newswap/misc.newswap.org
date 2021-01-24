@@ -4,7 +4,7 @@
     "keywords": [
         "defi"
     ],
-    "timestamp": "2020-10-25T15:59:06.416+00:00",
+    "timestamp": "2021-01-23T15:59:06.416+00:00",
     "tokens": [
         {
             "chainId": 1012,
@@ -85,7 +85,7 @@
         }
     ],
     "version": {
-        "major": 18,
+        "major": 19,
         "minor": 0,
         "patch": 0
     }
