@@ -146,10 +146,17 @@
             "name": "NMTK",
             "symbol": "NMTK",
             "decimals": 0
+        },
+        {
+            "chainId": 1012,
+            "address": "0x9fb33bf209E16138C87548ABaeB78C8eb8d038aC",
+            "name": "ECARE",
+            "symbol": "ECARE",
+            "decimals": 18
         }
     ],
     "version": {
-        "major": 18,
+        "major": 19,
         "minor": 0,
         "patch": 0
     }
