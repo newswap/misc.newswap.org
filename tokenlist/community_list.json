@@ -153,6 +153,13 @@
             "name": "ECARE",
             "symbol": "ECARE",
             "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x79b2724100a0ea5ed600d2d5a63a9f3a35e1fbc6",
+            "name": "FORE",
+            "symbol": "FORE",
+            "decimals": 18
         }
     ],
     "version": {
