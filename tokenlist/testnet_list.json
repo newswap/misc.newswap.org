@@ -19,10 +19,24 @@
             "name": "NewETH",
             "symbol": "NETH",
             "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x57AA46c42F088DdBA14AB9d9a468D0421A19145A",
+            "name": "MZD",
+            "symbol": "MZD",
+            "decimals": 18
+        },
+        {
+            "chainId": 1007,
+            "address": "0x14384FFB21621a390783f387f2228Ed453706800",
+            "name": "IMX",
+            "symbol": "IMX",
+            "decimals": 18
         }
     ],
     "version": {
-        "major": 19,
+        "major": 20,
         "minor": 0,
         "patch": 0
     }
