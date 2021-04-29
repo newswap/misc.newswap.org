@@ -15,6 +15,13 @@
         },
         {
             "chainId": 1012,
+            "address": "0xF201F4FE14FD8a363BC3782E42d808316C0d1762",
+            "name": "Think in Coin Token",
+            "symbol": "TICT",
+            "decimals": 10
+        },
+        {
+            "chainId": 1012,
             "address": "0x9cc2AFD608eC856C524320BC37d79C53181cdbb7",
             "name": "JL",
             "symbol": "JL",
