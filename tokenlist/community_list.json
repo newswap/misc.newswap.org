@@ -160,10 +160,17 @@
             "name": "FORE",
             "symbol": "FORE",
             "decimals": 18
+        },
+        {
+            "chainId": 1012,
+            "address": "0x23262131c5EE341470df6A2D037d0Cd78A49A43a",
+            "name": "NSB",
+            "symbol": "NSB",
+            "decimals": 18
         }
     ],
     "version": {
-        "major": 20,
+        "major": 21,
         "minor": 0,
         "patch": 0
     }
