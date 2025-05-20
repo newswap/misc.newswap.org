@@ -1,0 +1,23 @@
+{
+    "name": "AB Core Testnet List",
+    "logoURI": "https://misc.newswap.org/tokenlist/assets/abcoretestnet/logo.png",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2025-05-20T00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 26888,
+            "address": "0xdf72F39AB271ae7b13618468f4801Bb679e6b595",
+            "name": "NewUSDT",
+            "symbol": "NUSDT",
+            "decimals": 6
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
+
