@@ -1,0 +1,23 @@
+{
+    "name": "AB Core List",
+    "logoURI": "https://misc.newswap.org/tokenlist/abcore_list.png",
+    "keywords": [
+        "defi"
+    ],
+    "timestamp": "2025-05-20T00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 36888,
+            "address": "0x37d0e214f8845d588237a76D765B0fF714c9dD63",
+            "name": "ABDOG",
+            "symbol": "ABDOG",
+            "decimals": 18
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
+
